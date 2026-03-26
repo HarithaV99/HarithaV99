@@ -14,9 +14,7 @@
 
 🔭 **Currently:** Full Stack Developer @ **State Farm**  
 🎓 **Education:** MS Computer Science — UMass Lowell *(GPA 3.7)*  
-📍 **Location:** Lowell, MA  
-💼 **Experience:** 3+ years building enterprise applications  
-🌐 **Portfolio:** [HarithaV99.github.io](https://HarithaV99.github.io)  
+📍 **Location:** Lowell, MA   
 📫 **Email:** harithavankayalapati09@gmail.com  
 💬 **Ask me about:** Java, Spring Boot, Microservices, Kafka, React, AWS  
 
