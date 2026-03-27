@@ -12,11 +12,12 @@
 
 ### 👋 Hi, I'm Haritha!
 
-🔭 **Currently:** Full Stack Developer @ **State Farm**  
-🎓 **Education:** MS Computer Science — UMass Lowell *(GPA 3.7)*  
-📍 **Location:** Lowell, MA   
-📫 **Email:** harithavankayalapati09@gmail.com  
-💬 **Ask me about:** Java, Spring Boot, Microservices, Kafka, React, AWS  
+🔭 Currently: QA Analyst & Full Stack Developer @ CVS Health (Contractor)
+🎓 Education: MS Computer Science — UMass Lowell (GPA 3.7)
+📍 Location: Lowell, MA
+📫 Email: harithavankayalapati09@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/harithaneha/
+💬 Ask me about: Java, Spring Boot, Microservices, React, AWS, API Testing, QA Testing
 
 ---
 
